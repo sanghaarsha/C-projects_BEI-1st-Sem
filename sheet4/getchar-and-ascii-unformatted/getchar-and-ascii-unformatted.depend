@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580732297 source:/home/superman/Documents/sheet4/getchar-and-ascii-unformatted/main.c
+	<stdio.h>
+	<stdlib.h>
+

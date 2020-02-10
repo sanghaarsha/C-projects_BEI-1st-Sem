@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580789395 source:/home/superman/Documents/sheet4/getchar/main.c
+	<stdio.h>
+	<stdlib.h>
+
