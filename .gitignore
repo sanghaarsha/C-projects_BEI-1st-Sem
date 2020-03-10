@@ -1,0 +1,11 @@
+#codeblocks project file ignored
+*.cbp
+
+#layout file ignored
+.layout
+
+#obj directory ignored
+/obj/
+
+#bin directory ignored
+/bin/
